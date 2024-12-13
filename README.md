@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-🔭 I'm currently working at Acxiom Consulting Private Limited<br>👨‍💻 I'm an Android Developer and iOS Developer<br>👯 I’m looking for a new role in Software development<br>🌱 I'm currently learning AWS Cloud Architecting<br>📫 How to reach me: sjsaurabhjais@gmail.com<br>
+🔭 I'm currently working at Acxiom Consulting Private Limited<br>👨‍💻 I'm an iOS Developer<br>👯 I’m looking for a new role in Software development<br>🌱 I'm currently learning AWS Cloud Architecting<br>📫 How to reach me: sjsaurabhjais@gmail.com<br>
 
 
 ## 🌐 Socials:
