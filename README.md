@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SaurabhJais26&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📄 My Gist
-🔗 [Check out this Gist](https://gist.github.com/SaurabhJais26/43f47b2dd25bc4250cd3204cfe08886d)
+🔗 [Custom Alert View SwiftUI Gist](https://gist.github.com/SaurabhJais26/43f47b2dd25bc4250cd3204cfe08886d)
 
 
 ### 🔝 Top Contributed Repo
