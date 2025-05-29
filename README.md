@@ -16,8 +16,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhJais26&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhJais26&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaurabhJais26&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+## Thanks for visiting
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/SaurabhJais26/count.svg">
+
+Counting of visitors to this page in this section started from May 29, 2025
+
+<a href="https://info.flagcounter.com/H9of"><img src="https://s01.flagcounter.com/count2/H9of/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 ## 📄 My Gist
 🔗 [Custom Alert View SwiftUI Gist](https://gist.github.com/SaurabhJais26/43f47b2dd25bc4250cd3204cfe08886d)
